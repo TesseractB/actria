@@ -44,3 +44,7 @@
     font-family: var(--font-family);
     color: var(--text-color);
 }
+.container {
+    margin-left: 2em;
+    margin-right: 2em;
+}
